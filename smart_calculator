@@ -237,3 +237,5 @@ class SmartCalculator:
 
 if __name__ == "__main__":
     SmartCalculator().main(False)
+
+# git test
